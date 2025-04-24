@@ -1,1 +1,8 @@
-Insira seu resumo aqui!
+O GitHub é uma plataforma de hospedagem de código em nuvem que permite a criação de repositórios
+individuais ou colaborativos, com versionameento de código e controle, via interface ou CLI. Enquanto isso,
+o Github Classroom permite a correção automática de atividades commitadas na hieráquia aluno-professor, que
+pode gerar relatórios detalhados sobre o erro.
+
+A complexidade aumenta ao tratar do GitHub Codespace, haja visto que permite a execução online de repositórios
+fazendo o uso do VS code já logado na conta. Além disso, temos a possibilidade de escolher nossa máquina de execução
+em algum servidor ao redor do mundo.
